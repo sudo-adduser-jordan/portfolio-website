@@ -1,3 +1,3 @@
-# portfolio-website
+# Portfolio Website
 
 Static html hosted on Vercel.
