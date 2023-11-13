@@ -1,13 +1,6 @@
 {
-  "name": "portfolio",
-  "version": "1.0.0",
-  "author": "sudo-adduser-jordan",
-  "main": "middleware.js",
-  "license": "ISC",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "private": true,
   "dependencies": {
-    "vercel": "^32.5.3"
+    "@vercel/edge": "^0.1.2"
   }
 }
